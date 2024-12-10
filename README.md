@@ -6,7 +6,7 @@ This project demonstrates integrating a React frontend with a Python Flask backe
 
 ### Backend (Python - Flask)
 
-1. Navigate to the `backend` folder.
+1. Navigate to the `python_file.py` file.
 
 2. Set up a virtual environment and install Flask.
 
